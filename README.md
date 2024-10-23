@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Zhenhao Yang
 
-## <a href="https://www.linkedin.com/in/allenyzh/"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black">
+## [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black)](https://www.linkedin.com/in/allenyzh/)
 
 - 🏫 Math and Stat @ Concordia University
 - 🔭 Working on Web Development
