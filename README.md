@@ -12,9 +12,9 @@
 ![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=Express&logoColor=%23000000&labelColor=8D8D8D)
+![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=%23F7F7F7&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=%23F05032&labelColor=black)
-![Static Badge](https://img.shields.io/badge/tailwind_css-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=%2306B6D4&labelColor=white)
+![Static Badge](https://img.shields.io/badge/tailwind%20css-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23F7F7F7&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black)
 
