@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 This is Zhenhao Yang
+
+- 🏫 Math and Stat @ Concordia University
+- 🔭 Working on Web Development
 
 <!--
 **Allenyzh/Allenyzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
