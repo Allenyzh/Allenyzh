@@ -1,11 +1,22 @@
 ### Hi there 👋 This is Zhenhao Yang
 
+## ![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black)
+
 - 🏫 Math and Stat @ Concordia University
 - 🔭 Working on Web Development
 
 ### Skills
 
-<img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/-TypeScript-8e7cc3?style=flat&logo=typescript&logoColor=black"> <img src="https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-9400D3?style=flat&logo=css3&logoColor=white"><img src="http://img.shields.io/badge/-Node-430098?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Express-787878?style=flat&logo=express&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF">
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=Express&logoColor=%23000000&labelColor=8D8D8D)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=%23F05032&labelColor=black)
+![Static Badge](https://img.shields.io/badge/tailwind_css-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=%2306B6D4&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%237952B3&labelColor=black)
+![Static Badge](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black)
 
 <!--
 **Allenyzh/Allenyzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
