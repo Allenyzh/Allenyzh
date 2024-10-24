@@ -11,6 +11,7 @@
 [![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black)](#)
+[![Static Badge](https://img.shields.io/badge/C%2B%2B-%236a95c4?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=%233178C6&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=%23F7F7F7&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=%23F05032&labelColor=black)](#)
