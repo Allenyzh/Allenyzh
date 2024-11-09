@@ -9,6 +9,7 @@
 
 [![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)](#)
+[![Static Badge](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%230769AD&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/Html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/Css-%231572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black)](#)
 [![Static Badge](https://img.shields.io/badge/C%2B%2B-%236a95c4?style=for-the-badge&logo=cplusplus&logoColor=%2300599C&labelColor=black)](#)
