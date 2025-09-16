@@ -1,4 +1,5 @@
 ### Hi there 👋 This is Zhenhao Yang
+**A Front-end / Full Stack Developer**
 
 ## [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black)](https://www.linkedin.com/in/allenyzh/)
 
