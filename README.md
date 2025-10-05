@@ -3,8 +3,9 @@
 
 ## [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black)](https://www.linkedin.com/in/allenyzh/)
 
-- 🏫 Math and Stat @ Concordia University
-- 🔭 Working on Web Development
+- Working on Full Stack Development (React Vue Java python etc.)
+- Math and Stat @ Concordia University
+
 
 ### Skills
 
