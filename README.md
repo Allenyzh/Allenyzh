@@ -9,6 +9,7 @@
 ## [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=black)](https://www.linkedin.com/in/allenyzh/)
 
 - Working on Full Stack Development (React Vue Java python etc.)
+- Currently working in [OODARIS](https://oodaris.ai)
 - Math and Stat @ Concordia University
 
 
