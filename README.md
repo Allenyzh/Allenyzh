@@ -10,8 +10,6 @@
 
 - Working on Full Stack Development (React Vue Java python etc.)
 - Currently working in [OODARIS](https://oodaris.ai)
-- Math and Stat @ Concordia University
-
 
 ### Skills
 
